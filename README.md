@@ -28,5 +28,5 @@ Marketing Team Capital Bikeshare Company wants to know:
 |---------|
 | 0.332 |
 
-Video Presentation = [A Regression Approach To Optimize Revenue Youtube]()
-Slide Powerpoints = [A Regression Approach To Optimize Revenue](https://www.canva.com/design/DAGLNz37MOI/ZMvsQgwLlcwst7GhsRDA4w/edit?utm_content=DAGLNz37MOI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Video Presentation = [A Regression Approach To Optimize Revenue Youtube]()
+- Slide Powerpoints = [A Regression Approach To Optimize Revenue](https://www.canva.com/design/DAGLNz37MOI/ZMvsQgwLlcwst7GhsRDA4w/edit?utm_content=DAGLNz37MOI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
